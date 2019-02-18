@@ -1,0 +1,30 @@
+C:\Users\Isak\Documents\Visual Studio 2017\Projects\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+C:\Users\Isak\Documents\Visual Studio 2017\Projects\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\Isak\Documents\Visual Studio 2017\Projects\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\Isak\Documents\Visual Studio 2017\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.csprojAssemblyReference.cache
+C:\Users\Isak\Documents\Visual Studio 2017\Projects\Pokedex\Pokedex\obj\Debug\MainWindow.g.cs
+C:\Users\Isak\Documents\Visual Studio 2017\Projects\Pokedex\Pokedex\obj\Debug\App.g.cs
+C:\Users\Isak\Documents\Visual Studio 2017\Projects\Pokedex\Pokedex\obj\Debug\Pokedex_MarkupCompile.cache
+C:\Users\Isak\Documents\Visual Studio 2017\Projects\Pokedex\Pokedex\obj\Debug\Pokedex_MarkupCompile.lref
+C:\Users\Isak\Documents\Visual Studio 2017\Projects\Pokedex\Pokedex\obj\Debug\MainWindow.baml
+C:\Users\Isak\Documents\Visual Studio 2017\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.g.resources
+C:\Users\Isak\Documents\Visual Studio 2017\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+C:\Users\Isak\Documents\Visual Studio 2017\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.cache
+C:\Users\Isak\Documents\Visual Studio 2017\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\Isak\Documents\Visual Studio 2017\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\Isak\Documents\Visual Studio 2017\Projects\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+D:\files\dev\pokedex\C-Sharp\Pokedex\bin\Debug\Pokedex.exe.config
+D:\files\dev\pokedex\C-Sharp\Pokedex\bin\Debug\Pokedex.exe
+D:\files\dev\pokedex\C-Sharp\Pokedex\bin\Debug\Pokedex.pdb
+D:\files\dev\pokedex\C-Sharp\Pokedex\obj\Debug\Pokedex.csprojAssemblyReference.cache
+D:\files\dev\pokedex\C-Sharp\Pokedex\obj\Debug\MainWindow.g.cs
+D:\files\dev\pokedex\C-Sharp\Pokedex\obj\Debug\App.g.cs
+D:\files\dev\pokedex\C-Sharp\Pokedex\obj\Debug\Pokedex_MarkupCompile.cache
+D:\files\dev\pokedex\C-Sharp\Pokedex\obj\Debug\Pokedex_MarkupCompile.lref
+D:\files\dev\pokedex\C-Sharp\Pokedex\obj\Debug\MainWindow.baml
+D:\files\dev\pokedex\C-Sharp\Pokedex\obj\Debug\Pokedex.g.resources
+D:\files\dev\pokedex\C-Sharp\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+D:\files\dev\pokedex\C-Sharp\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.cache
+D:\files\dev\pokedex\C-Sharp\Pokedex\obj\Debug\Pokedex.csproj.CoreCompileInputs.cache
+D:\files\dev\pokedex\C-Sharp\Pokedex\obj\Debug\Pokedex.exe
+D:\files\dev\pokedex\C-Sharp\Pokedex\obj\Debug\Pokedex.pdb
